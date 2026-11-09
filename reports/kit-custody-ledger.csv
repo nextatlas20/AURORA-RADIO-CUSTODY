@@ -1,0 +1,7 @@
+kit_id,label,home_hub,valid_events,accepted_events,rejected_events,accepted_dispatches,accepted_arrivals,accepted_audits,current_hub,destination_hub,active_seal,status
+RK-03,Field Three,East,3,2,1,1,0,1,,North,S-E5F6,TRANSIT
+RK-04,Medical Four,North,2,1,1,1,0,0,,West,S-G7H8,TRANSIT
+RK-01,Beacon One,North,3,3,0,1,1,1,South,,,RELOCATED
+RK-02,Relay Two,South,3,2,1,1,1,0,East,,,RELOCATED
+RK-05,Spare Five,West,0,0,0,0,0,0,West,,,HOME
+RK-06,Survey Six,East,4,4,0,2,2,0,East,,,HOME
